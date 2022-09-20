@@ -1,0 +1,63 @@
+*{
+
+	margin: 0;
+	padding: 0;
+	 box-sizing: border-box;
+}
+.nav h1{
+
+}
+.nav{
+
+ height: 100px;
+  background-color: red;
+}
+ul
+{
+	
+	float: right;
+	list-style-type: none;
+margin-top: 0px;
+} 
+
+ul li{
+
+	display: inline-block;
+	margin-left: 450px;
+	margin-top: 25px;
+}
+ul li a{
+
+padding: 5px;
+text-decoration: none;
+font-family: sans-serif;
+font-size: 20px;
+font-weight: bold;
+color: white;
+margin-left: 50px;
+list-style-position: none;
+
+}
+footer {
+  background-color: #777;
+  padding: 10px;
+  text-align: center;
+  color: white;
+  margin-top: 530px;
+}
+#about{
+
+	padding: 40px;
+
+}
+#services{
+
+	padding: 40px;
+}
+#contactus{
+
+	padding: 40px;
+}
+.carousel-fade .carousel-item, .carousel-item img  {
+  max-height: 90vh;
+}
